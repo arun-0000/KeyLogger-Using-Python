@@ -24,6 +24,5 @@ Run the following:
     
     
 ## License & Copyright
-© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+© [ArunKumar](https://github.com/arun-0000)
 
-Licensed under the [MIT License](License)
